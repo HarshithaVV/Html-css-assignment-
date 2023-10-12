@@ -1,0 +1,12 @@
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+     color: white; 
+    font-size: 20px;
+    
+}
+ul{
+    margin-left: 700px;
+    margin-top: -40px;
+}

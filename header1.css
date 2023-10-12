@@ -1,0 +1,16 @@
+h3{
+    padding-left: 100px;
+    padding-top: -100px;
+    
+}
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 20px;
+    color: grey;
+    
+}
+ul{
+    margin-top: -40px;
+    margin-left: 400px;
+}

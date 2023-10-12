@@ -1,0 +1,28 @@
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 20px;
+}
+
+ul{
+    margin-top: -40px;
+    margin-left: 400px;
+}
+
+.image-stack{
+    margin-left: 500px;
+    display: grid;
+    position: relative;
+    grid-template-columns: repeat(12,1fr);
+}
+.bottom{
+    grid-column: 4 / -1;
+    grid-row: 1;
+}
+.top{
+    grid-row: 1;
+    grid-column: 1 / span 8;
+    z-index: 3;
+    
+
+}

@@ -1,0 +1,25 @@
+.container{
+    color: white;
+}
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+ul{
+    margin-top: -20px;
+    margin-left: 800px;
+}
+button{
+    margin-top: -20px;
+}
+p{
+    font-size: 18px;
+    margin-left: 500px;
+}
+.end{
+    margin-left: 550px;
+
+}
